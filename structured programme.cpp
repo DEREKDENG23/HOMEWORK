@@ -31,7 +31,7 @@ void main()
 			    inputgrade();
 				break;
 		  case 5:
-			    //return 0;
+			    return 0;
 		  default:
 			    cout<<"您输入了错误的菜单项，请重新选择";
 
